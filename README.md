@@ -6,7 +6,7 @@
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palakkdhaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palakdhaka17@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/palakdhaka17072004/)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palakkdhaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palakdhaka17@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palakdhaka17072004/)
 
 
 
